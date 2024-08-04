@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "firebase": "^10.12.5",
+    "react-bootstrap": "^2.10.4"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
